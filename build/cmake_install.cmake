@@ -118,6 +118,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/diya/image_localization/build/gtest/cmake_install.cmake")
   include("/home/diya/image_localization/build/gps_node/cmake_install.cmake")
+  include("/home/diya/image_localization/build/odom_wheel/cmake_install.cmake")
 
 endif()
 

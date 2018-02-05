@@ -1,2 +1,2 @@
-gps_node
+gps_node:odom_wheel
 -DCATKIN_DEVEL_PREFIX=/home/diya/image_localization/devel -DCMAKE_INSTALL_PREFIX=/home/diya/image_localization/install -G Unix Makefiles

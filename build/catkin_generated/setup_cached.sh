@@ -7,4 +7,9 @@
 # new environment variables
 
 # modified environment variables
+export CMAKE_PREFIX_PATH="/home/diya/image_localization/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/diya/image_localization/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/diya/image_localization/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/diya/image_localization/build"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/diya/image_localization/devel/share/common-lisp"
+export ROS_PACKAGE_PATH="/home/diya/image_localization/src:$ROS_PACKAGE_PATH"

@@ -1,0 +1,9 @@
+<!-- This is the launch file to start wheel encoder reader
+	 Author: Diya Li
+-->
+
+<launch>
+
+  <node pkg="odom_wheel" type="wheel_speed.py" name="wheel_encoder"/>
+
+</launch>
