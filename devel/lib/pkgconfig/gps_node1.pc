@@ -1,0 +1,8 @@
+prefix=/home/diya/image_localization/devel
+
+Name: gps_node1
+Description: Description of gps_node1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/diya/image_localization/devel/lib 
+Requires: 

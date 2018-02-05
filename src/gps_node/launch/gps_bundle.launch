@@ -1,0 +1,9 @@
+<!-- This is the launch file to start all gps modules
+	 Author: Diya Li
+-->
+
+<launch>
+
+  <node pkg="gps_node" type="gps1.py" name="gps_talker1"/>
+
+</launch>
